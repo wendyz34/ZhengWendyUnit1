@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b9a46f7-b1f5-44ff-8a1e-1ceefa721627" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/calc.java" afterDir="false" />
+    <list default="true" id="3b9a46f7-b1f5-44ff-8a1e-1ceefa721627" name="Changes" comment="add print statements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/calc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,15 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+        <option value="CompoundRunConfigurationType" />
+        <option value="ShConfigurationType" />
+      </set>
+    </option>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,6 +53,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664371155817</updated>
     </task>
+    <task id="LOCAL-00001" summary="add print statements">
+      <created>1664410469882</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664410469882</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -56,5 +73,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add print statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="add print statements" />
   </component>
 </project>
